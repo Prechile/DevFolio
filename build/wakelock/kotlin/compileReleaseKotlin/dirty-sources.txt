@@ -1,0 +1,2 @@
+/Users/Developper/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock-0.6.1+2/android/src/main/kotlin/creativemaybeno/wakelock/WakelockPlugin.kt
+/Users/Developper/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock-0.6.1+2/android/src/main/kotlin/creativemaybeno/wakelock/Wakelock.kt

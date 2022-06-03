@@ -29,14 +29,14 @@ final kCommunityLogo = [
   'assets/cui.png',
   'assets/flutterIsl.png',
   'assets/dsc.png',
-  'assets/st.png'
+  'assets/ibet.png'
 ];
 
 final kCommunityLinks = [
   "https://www.comsats.edu.pk/",
   "https://web.facebook.com/FlutterIslamabadPakistan/",
   "https://dsc.community.dev/comsats-university-islamabad/",
-  "https://sastaticket.pk/"
+  "https://myinstantbet.com/"
 ];
 
 // Tools & Tech

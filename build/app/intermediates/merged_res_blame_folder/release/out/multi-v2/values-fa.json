@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/monetics/StudioProjects/DevFolio/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-fa/values-fa.xml",
+            "map": [
+                {
+                    "source": "/Users/monetics/.gradle/caches/transforms-2/files-2.1/1978c8540575e4da29114a40e6bf1a1a/core-1.7.0/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "705",
+                        "endColumns": "100",
+                        "endOffsets": "801"
+                    }
+                },
+                {
+                    "source": "/Users/monetics/.gradle/caches/transforms-2/files-2.1/ec254a9f973ecef553f5093833c0f1cb/jetified-exoplayer-core-2.17.0/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,122,183,250,310,388,463,552,640",
+                        "endColumns": "66,60,66,59,77,74,88,87,64",
+                        "endOffsets": "117,178,245,305,383,458,547,635,700"
+                    }
+                }
+            ]
+        }
+    ]
+}
